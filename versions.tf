@@ -5,7 +5,7 @@ terraform {
       source = "hashicorp/external"
     }
     gitlab = {
-      source = "terraform-providers/gitlab"
+      source = "gitlabhq/gitlab"
     }
   }
 }
